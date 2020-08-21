@@ -1,0 +1,100 @@
+Loops in Java
+--------------
+1.While(Entry control loop)
+	is a control flow statement that allows code to be 
+executed repeatedly based on the given boolean cond.
+while(boolean condition)
+{
+//loop staements
+}
+
+2.for(Entry control loop)
+intialization,condition & increement/decreemnt in same line
+for(initialization condn;testing condn;increment/decrement)
+{
+statement(s)
+}
+
+Enhanced for loop
+
+3.do while(Exit control loop)
+similar to while lopp
+it  checks for condn after executing the statements
+do
+{
+statements..
+}
+while(condition);
+
+CONSTRUCTORS
+------------
+block of codes similar to method
+it is called when an instance of class is created 
+new();
+car c=new car();
+string steering;
+string gear;
+
+car();
+car(string steering,string gear);
+
+1.no arg constructor
+2.parametrized constructor
+
+Constructor Overloading
+----------------------
+1.Consturctor can be overloaded
+
+difference btw constructor & method
+-----------------------------------
+
+package
+-------
+1.built-in package
+lang,awt,io,swing,util,sql etc...
+2.user-defined package
+
+three ways to access the package from outside package
+1.import package.*;
+2.import package.classname;
+3.fully qualified name;
+
+GUI
+---
+awt...
+abstract window toolkit
+1.flowlayout
+2.broderlayout
+3.gridlayout
+
+Access MOdifiers
+---------------
+1.private-within a class
+2.default-within a package
+3.protected-within pack & outside pack
+4.public-it consists of all(within/outside class,within/outside pack)
+
+non access modifiers
+--------------------
+1.static
+2.abstract
+3.synchronized
+4.volatile
+5.transient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

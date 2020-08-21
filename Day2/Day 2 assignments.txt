@@ -1,0 +1,9 @@
+1.Program to print even number from 10 to 20 (use while & if loop)
+2.Program to print numbers from 10 to 1(use while loop)
+3.Zero loop iteration(while loop)
+4.Infinite while loop Example
+5.Program to print a sentence 10 times(for loop)
+6.Program to find the sum of natural numbers from 1 to 1000
+7.Infinite for Loop
+
+GUI programs
